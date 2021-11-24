@@ -19,6 +19,7 @@ public class uncountedLoop {
 				running = false;
 			}
 			count++;
+			System.out.println("Anda sudah melakukan perulangan sebanyak " + count + " kali");
 		}
 		
 	}
